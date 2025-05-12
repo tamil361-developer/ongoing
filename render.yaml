@@ -1,0 +1,6 @@
+# Render.com deployment configuration for Vite React app
+[build]
+command = "npm run build"
+
+[static]
+directory = "dist"
